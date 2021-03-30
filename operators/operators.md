@@ -1,5 +1,5 @@
 **Here we will learn about operators in C++**
-*C++ has rich variety of operators like arithmetic, relational, logoacal and other types as well*
+* C++ has rich variety of operators like arithmetic, relational, logoacal and other types as well*
 
 ---
 
