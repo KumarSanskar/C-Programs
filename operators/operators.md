@@ -43,7 +43,7 @@
 ---
 
 #   Conditional Operator:
-*   * also known as ternary operator as three operands are required
+*   also known as ternary operator as three operands are required
 *   => :?
 *   expr1?expr2:expr3
 *   i.e. if expr1 is true then give expr2 else give expr3
