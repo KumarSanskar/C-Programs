@@ -5,11 +5,11 @@
 
 #   1)Arithmetic Operators: 
 *   provides operators for five basic operations :-
-*   + => for addition
-*   - => for subtraction
-*   * => for multiplication
-*   / => for division
-*   % => for getting remainder
+*   `+ => for addition`
+*   `- => for subtraction`
+*   `* => for multiplication`
+*   `/ => for division`
+*   `% => for getting remainder`
 *   all of them are Binary operators that is they require 2 operands, but + and - can act as unary operator as well.
 
 ---
@@ -26,12 +26,12 @@
 ---
 
 #   Relational Operator:
-*    <  - less than
-*    > - greater than
-*    <= - less than equal to
-*    >= - greater than equal to
-*    == - equals to (compares)
-*    != - not equal to
+*    `<  - less than`
+*    `> - greater than`
+*    `<= - less than equal to`
+*    `>= - greater than equal to`
+*   ` == - equals to (compares)`
+*   ` != - not equal to`
 
 ---
 
@@ -43,7 +43,7 @@
 ---
 
 #   Conditional Operator:
-*   - also known as ternary operator as three operands are required
+*   * also known as ternary operator as three operands are required
 *   => :?
 *   expr1?expr2:expr3
 *   i.e. if expr1 is true then give expr2 else give expr3
