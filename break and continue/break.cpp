@@ -11,5 +11,6 @@ int main(){
         break;
 
     cout<<i<<"\n";
-    }    
+    }
+return 0;        
 }
