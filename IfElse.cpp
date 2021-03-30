@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-// here we use write a simple program to compare two numbers using if-else block
+// here we write a simple program to compare two numbers using if-else block.
 
 int main(){
      int firstNumber, secondNumber;
