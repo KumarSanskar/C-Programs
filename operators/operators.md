@@ -37,7 +37,7 @@
 
 #   4)Logical operators:
 *   || => Logical OR => if any of the expression is true then whole is true
-*   && => Logiacl AND => if any of the expression is true then whole is false
+*   && => Logiacl AND => both the expression should br true in order to return true
 *   ! => Logical NOT => negates the result of the expression 
 
 ---
