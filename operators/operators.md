@@ -25,7 +25,7 @@
 
 ---
 
-#   Relational Operator:
+#   3)Relational Operator:
 *    `<  - less than`
 *    `> - greater than`
 *    `<= - less than equal to`
@@ -35,14 +35,14 @@
 
 ---
 
-#   Logical operators:
+#   4)Logical operators:
 *   || => Logical OR => if any of the expression is true then whole is true
 *   && => Logiacl AND => if any of the expression is true then whole is false
 *   ! => Logical NOT => negates the result of the expression 
 
 ---
 
-#   Conditional Operator:
+#   5)Conditional Operator:
 *   also known as ternary operator as three operands are required
 *   => :?
 *   expr1?expr2:expr3
@@ -50,7 +50,7 @@
 
 ---
 
-#   Some other type of Operators:
+#   6)Some other type of Operators:
    (i) sizeof => it returns the length (in bytes) of the variable or the data type
 *       eg. - sizeof var(here var is a declared variable)
 *           - sizeof(type) (here type is a C++ data type)
