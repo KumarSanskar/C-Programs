@@ -14,7 +14,8 @@ int main(){
     int num, result;
     cout<<"Enter a number: ";
     cin>>num;
-    result = cube(num);
+
+    result = cube(num); // calling the cube function and passing the value input by the user(num)
 
     cout<<"\nThe cube of "<<num<<" is "<<result;
     return 0;
