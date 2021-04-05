@@ -28,7 +28,7 @@ each function has its own name and when that is encounters it's executed at that
 ---
 
 * Function Prototype - it describes a the function interface to to the compiler by giving details such as number and type 
-*                       of arguments and type of values returned.
+                      of arguments and type of values returned.
 ---
 
 * Void keyword - used for return type of functions that don't return a value.
@@ -42,7 +42,7 @@ each function has its own name and when that is encounters it's executed at that
 
 * A function can be invoked in two ways - 
 * (i) Call by Value - it copies the values in actual parameters into formal parameters.
-*                    - during this any chnage in formal parameter is not reflected back in actual parameter.
+*                    - during this any change in formal parameter is not reflected back in actual parameter.
 * (ii) Call by Reference - in place of passing value to function being called, a reference to original variable (value) is passed.
 *                         - during this any change made in formal parameter is reflected back in actual parameter.
 ---
