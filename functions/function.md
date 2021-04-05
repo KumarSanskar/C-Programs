@@ -14,7 +14,7 @@ each function has its own name and when that is encounters it's executed at that
 *User defined functions* - they are created by the user and as per the requierment of the program.
 ---
 
-**Function definition - 
+# Function definition - 
 * general form of function defination is =>
 *   `type function-name(parameter-list){
         //body of the function//
@@ -35,18 +35,18 @@ each function has its own name and when that is encounters it's executed at that
 * using the void as return type one makes sure that it can be used in assignment statement.
 ---
 
-* Default arguments -
+# Default arguments -
 * we can assign a default value to the function's parameter if we don't want a variable input for that argument.
 * `e.g. -  float(flot principalAmount, float rate, int time = 2) `
 ---
 
-* A function can be invoked in two ways - 
+# A function can be invoked in two ways - 
 * (i) Call by Value - it copies the values in actual parameters into formal parameters.
                     - during this any change in formal parameter is not reflected back in actual parameter.
 * (ii) Call by Reference - in place of passing value to function being called, a reference to original variable (value) is passed.
                          - during this any change made in formal parameter is reflected back in actual parameter.
 ---
-* The return statement - 
+# The return statement - 
 * it is used in two ways - 
 * (i) as an immediate exit fromm the function
 * (ii) used fro returning value to a calling code
@@ -62,7 +62,7 @@ each function has its own name and when that is encounters it's executed at that
 * For Local Variable having function scope - the lifetime is function run
 * For Local variable having block scope - the lifetime is block run
 ---
-* Standard Library inProgramming Language - 
+# Standard Library inProgramming Language - 
 * Library - is collection of subprograms used to develop other program and software
            rather they are helper code used in other independent progrmas
 * C++ header file - it contains files containg the standard functions that your program may use, they provide function prototype, definations for library function.Data types and constants used with the library functions are also defined in them.
