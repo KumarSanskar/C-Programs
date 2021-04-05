@@ -42,9 +42,9 @@ each function has its own name and when that is encounters it's executed at that
 
 * A function can be invoked in two ways - 
 * (i) Call by Value - it copies the values in actual parameters into formal parameters.
-*                    - during this any change in formal parameter is not reflected back in actual parameter.
+                    - during this any change in formal parameter is not reflected back in actual parameter.
 * (ii) Call by Reference - in place of passing value to function being called, a reference to original variable (value) is passed.
-*                         - during this any change made in formal parameter is reflected back in actual parameter.
+                         - during this any change made in formal parameter is reflected back in actual parameter.
 ---
 * The return statement - 
 * it is used in two ways - 
@@ -64,7 +64,7 @@ each function has its own name and when that is encounters it's executed at that
 ---
 * Standard Library inProgramming Language - 
 * Library - is collection of subprograms used to develop other program and software
-*           rather they are helper code used in other independent progrmas
+           rather they are helper code used in other independent progrmas
 * C++ header file - it contains files containg the standard functions that your program may use, they provide function prototype, definations for library function.Data types and constants used with the library functions are also defined in them.
 * Some of the common standard library functions are -
 * stdio.h => it defines the header files defines types and macros needed for the standard I/O package, it also defines standard I/O predefined streams like stdin,stdout, stdprn while including iostream.h files in your programs stdio.h automatically gets included in our program.
